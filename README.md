@@ -3,11 +3,6 @@ A clean weight reduction mod for the Razer Orochi v2.
 
 Massive props to Razer for releasing such a good mouse!
 
-## Suggested Usage
-
-I don't really recommend going for the Lipo variant unless you really know what you are doing. I had to crack a Lipo AA battery apart to harvest its charging circuit, which should be done with extreme caution. I also directly soldered Lipo connections to the charging circuit, but you could also just source and solder a dedicated battery connection to the circuit.
-
-LR44 or 675 Button cells are much safer to work with. Get or print a button cell holder, and desolder the battery cable from the Inner Skeleton part of the stock Orochi, and you're in business.
 ## Background
 
 The goal of this mod was to nondestructively reduce the weight of the mouse while maintaining functionality and structural integrity.
@@ -15,6 +10,12 @@ The goal of this mod was to nondestructively reduce the weight of the mouse whil
 The stock mouse is made of 3 main parts: Lower Shell, Upper Shell, and Inner Skeleton.
 
 I removed the Inner Skeleton of the mouse and replaced all its functions with various 3D printed parts.
+
+## Suggested Usage
+
+I don't really recommend going for the Lipo variant unless you really know what you are doing. I had to crack a Lipo AA battery apart to harvest its charging circuit, which should be done with extreme caution. I also directly soldered Lipo connections to the charging circuit, but you could also just source and solder a dedicated battery connection to the circuit.
+
+LR44 or 675 Button cells are much safer to work with. Get or print a button cell holder, and desolder the battery cable from the Inner Skeleton part of the stock Orochi, and you're in business.
 
 ## Functional Descriptions
 
