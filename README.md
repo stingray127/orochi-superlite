@@ -19,12 +19,12 @@ LR44 or 675 Button cells are much safer to work with. Get or print a button cell
 
 ## Functional Descriptions
 
-botscaffold is used to:
+botscaffold:
 - Prevents the scroll wheel from popping up
 - Holds the daughterboard in place so the side buttons are usable
 - Provides anchor points for topscaffold
 
-anticrush is used to:
+anticrush:
 - Prevents the user from crushing the walls of the Lower Shell inwards
 - Provides 2 indexing points for the Upper Shell
 
