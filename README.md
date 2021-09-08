@@ -13,7 +13,7 @@ The stock mouse is made of 3 main parts: Lower Shell, Upper Shell, and Inner Ske
 
 I removed the Inner Skeleton of the mouse and replaced all its functions with various 3D printed parts.
 
-This image shows the correct orientation for printing each part.
+This image shows the correct orientation for printing each part. Add supports as you see fit.
 
 ![](img/print_orientation.png)
 
