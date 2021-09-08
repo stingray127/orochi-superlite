@@ -17,6 +17,20 @@ This image shows the correct orientation for printing each part. Add supports as
 
 ![](img/print_orientation.png)
 
+Pros:
+- Significant weight reduction through the removal of a 14g inner hull.
+- 150mah Lipo Power System, significantly lighter than an AA battery.
+- USB-C rechargable, charges in ~40 min, lasts 50 hrs.
+- Still structurally integral
+- Uses original outer shells, so it looks stock and feels nice
+- Charging port integrates nondestrucively with the rest of the mouse
+- DPI button is moved to a nicer place, can be rebound to an in game function
+
+Cons:
+- Still can't use the mouse while charging. The charging circuit only allows usage OR charging, one at a time.
+- Depending on what material you print with, the magnet holder might become looser over time (material creep). If the magnet pops out, it can be glued back in.
+- It's still an Orochi v2, so the shape is not for everyone.
+
 ## Suggested Usage
 
 I don't really recommend going for the Lipo variant unless you really know what you are doing. I had to crack a Lipo AA battery apart to harvest its charging circuit, which should be done with extreme caution. I also directly soldered Lipo connections to the charging circuit, but you could also just source and solder a battery connection to the circuit.
