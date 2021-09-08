@@ -9,9 +9,17 @@ If you liked or used this design, consider supporting me here: https://www.buyme
 
 The goal of this mod was to nondestructively reduce the weight of the mouse while maintaining functionality and structural integrity.
 
+![](img/glamour.png)
+
 The stock mouse is made of 3 main parts: Lower Shell, Upper Shell, and Inner Skeleton.
 
 I removed the Inner Skeleton of the mouse and replaced all its functions with various 3D printed parts.
+
+![](img/guts.png)
+
+The final weight of the mouse fully assembled is ~56 grams.
+
+![](img/scale.png)
 
 This image shows the correct orientation for printing each part. Add supports as you see fit.
 
